@@ -50,15 +50,15 @@ Além disso é necessário um desktop com acesso ao snowflake configurado. para 
 
    ### Adicionando a conexão
 
-![GET](images/PBI_1.png)
+![GET](images/PBI1.png)
 
-![GET](images/PBI_2.png)
+![GET](images/PBI2.png)
 
-![GET](images/PBI_3.png)
+![GET](images/PBI3.png)
 
-![GET](images/PBI_4.png)
+![GET](images/PBI4.png)
 
    ### Transformando os dados e modelando o dashboard
 
-![GET](images/PBI_5.png)
+![GET](images/PBI5.png)
 
