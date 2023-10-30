@@ -12,7 +12,7 @@ O pipeline foi desenvolvido utilizando plataformas cloud, sendo assim é necessa
 
 Além disso é necessário um desktop com acesso ao snowflake configurado. para acesso da plataforma PowerBI Desktop
 
-### WHAREHOUSE:
+### WAREHOUSE:
 
 #### View's de origem:
    ##### STG_TPCH_SF1__CUSTOMER
